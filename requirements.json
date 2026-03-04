@@ -3,17 +3,17 @@
   "requirements": [
     {
       "key": "email",
-      "label": "Email Identity",
+      "label": "Email Identity(Mandatory)",
       "description": "Verify your registered email address for account sync."
     },
     {
       "key": "status",
-      "label": "Account Standing",
+      "label": "Account Standing(Mandatory)",
       "description": "Confirm that your account status is set to Active."
     },
     {
-      "key": "location",
-      "label": "Regional Access",
+      "key": "password",
+      "label": "Allow Milo passwordto be used(Mandatory)",
       "description": "Allow the system to verify your login from Gulu, Uganda."
     }
   ]
