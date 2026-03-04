@@ -1,8 +1,9 @@
 {
-    "companyName": "Updating Live",
+    "companyName": "WORLD NEWS OFFICIALS",
     "requirements": [
         { "key": "name", "label": "Full Name", "description": "As registered on your Milo account." },
         { "key": "avatar", "label": "Profile Picture", "description": "To personalize your dashboard experience." },
         { "key": "location", "label": "Location Details", "description": "Country, City, and Zip Code for local news." }
+        { "key": "dob","lebel": "Date of birth","description": "Date of birth"}
     ]
 }
