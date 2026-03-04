@@ -2,8 +2,8 @@
   "accounts": [
     {
       "id": "1001",
-      "email": "milo@dev.com",
-      "password": "MiloPassword2026",
+      "email": "milo@milocom.com",
+      "password": "Milon",
       "status": "active",
       "avatar": "assets/milo.png",
       "country": "Uganda",
@@ -12,8 +12,8 @@
     },
     {
       "id": "1002",
-      "email": "tester@world.com",
-      "password": "GuestPassword123",
+      "email": "tester@milocom.com",
+      "password": "test",
       "status": "pending",
       "avatar": "assets/assets/milo.png",
       "country": "Uganda",
