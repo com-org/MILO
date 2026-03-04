@@ -1,25 +1,20 @@
 {
-    "companyName": "WORLD NEWS OFFICIALS",
-    "requirements": [
-        { 
-            "key": "name", 
-            "label": "Full Name", 
-            "description": "As registered on your Milo account." 
-        },
-        { 
-            "key": "avatar", 
-            "label": "Profile Picture", 
-            "description": "To personalize your dashboard experience." 
-        },
-        { 
-            "key": "location", 
-            "label": "Location Details", 
-            "description": "Country, City, and Zip Code for local news." 
-        },
-        { 
-            "key": "dob",
-            "label": "Date of birth",
-            "description": "Used for age-restricted news content."
-        }
-    ]
+  "companyName": "Milo Auth Service",
+  "requirements": [
+    {
+      "key": "email",
+      "label": "Email Identity",
+      "description": "Verify your registered email address for account sync."
+    },
+    {
+      "key": "status",
+      "label": "Account Standing",
+      "description": "Confirm that your account status is set to Active."
+    },
+    {
+      "key": "location",
+      "label": "Regional Access",
+      "description": "Allow the system to verify your login from Gulu, Uganda."
+    }
+  ]
 }
