@@ -1,25 +1,8 @@
 {
-    "companyName": "WORLD NEWS OFFICIALS",
+    "companyName": "Updating Live",
     "requirements": [
-        { 
-            "key": "name", 
-            "label": "Full Name", 
-            "description": "As registered on your Milo account." 
-        },
-        { 
-            "key": "avatar", 
-            "label": "Profile Picture", 
-            "description": "To personalize your dashboard experience." 
-        },
-        { 
-            "key": "location", 
-            "label": "Location Details", 
-            "description": "Country, City, and Zip Code for local news." 
-        },
-        { 
-            "key": "dob",
-            "label": "Date of birth",
-            "description": "Used for age-restricted news content."
-        }
+        { "key": "name", "label": "Full Name", "description": "As registered on your Milo account." },
+        { "key": "avatar", "label": "Profile Picture", "description": "To personalize your dashboard experience." },
+        { "key": "location", "label": "Location Details", "description": "Country, City, and Zip Code for local news." }
     ]
 }
