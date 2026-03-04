@@ -4,7 +4,7 @@
       "id": "1001",
       "name": "Milo",
       "email": "milo@milocom.com",
-      "password": "milo_secure_pass_2026",
+      "password": "password",
       "avatar": "assets/milo.png",
       "role": "admin"
     },
