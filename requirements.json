@@ -13,7 +13,7 @@
     },
     {
       "key": "password",
-      "label": "Allow Milo passwordto be used(Mandatory)",
+      "label": "Allow Milo password to be used(Mandatory)",
       "description": "Allow the system to verify your login from Gulu, Uganda."
     }
   ]
